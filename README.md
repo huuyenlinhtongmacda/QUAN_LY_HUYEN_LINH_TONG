@@ -64,6 +64,8 @@ HUYEN_LINH_TONG/
 
 ## 🚀 4. Hướng dẫn sử dụng
 
+### Nếu muốn sử dụng dược thì hãy sửa lại code trong file Ket_Noi để thiết lập kết nối với sql
+
 ### Yêu cầu hệ thống
 
 - Hệ điều hành Windows.
@@ -82,6 +84,7 @@ HUYEN_LINH_TONG/
 Không di chuyển riêng tệp EXE ra khỏi thư mục chứa `app` và `runtime`.
 
 ---
+
 
 ## 🗄️ 5. Cơ sở dữ liệu
 
