@@ -1,0 +1,12 @@
+
+
+Folder : CSDL : Chứa file Back up cơ sở dữ liêu cần có .
+
+Folder : Do_An_JAVA : Chứa source code của cả hệ thống .
+
+Folder : HUYEN_LINH_TONG : chứa file HUYEN_LINH_TONG.exe có thể chạy trực tiếp .
+
+
+
+
+
